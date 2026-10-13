@@ -1,0 +1,413 @@
+{
+ "chaos": {
+  "Frequency (Monobit)": {
+   "n_pvalues": 100,
+   "passed": 100,
+   "min_required": 97,
+   "prop_ok": true,
+   "P_T": 0.15376333779556464,
+   "unif_ok": true,
+   "n_eligible_seqs": 100
+  },
+  "Block Frequency": {
+   "n_pvalues": 100,
+   "passed": 99,
+   "min_required": 97,
+   "prop_ok": true,
+   "P_T": 0.6786857852960747,
+   "unif_ok": true,
+   "n_eligible_seqs": 100
+  },
+  "Runs": {
+   "n_pvalues": 100,
+   "passed": 100,
+   "min_required": 97,
+   "prop_ok": true,
+   "P_T": 0.9558347256002608,
+   "unif_ok": true,
+   "n_eligible_seqs": 100
+  },
+  "Longest Run of Ones": {
+   "n_pvalues": 100,
+   "passed": 100,
+   "min_required": 97,
+   "prop_ok": true,
+   "P_T": 0.12961959133276182,
+   "unif_ok": true,
+   "n_eligible_seqs": 100
+  },
+  "Binary Matrix Rank": {
+   "n_pvalues": 100,
+   "passed": 100,
+   "min_required": 97,
+   "prop_ok": true,
+   "P_T": 0.3190835021426136,
+   "unif_ok": true,
+   "n_eligible_seqs": 100
+  },
+  "DFT (Spectral)": {
+   "n_pvalues": 100,
+   "passed": 98,
+   "min_required": 97,
+   "prop_ok": true,
+   "P_T": 0.10879095519400787,
+   "unif_ok": true,
+   "n_eligible_seqs": 100
+  },
+  "Non-overlapping Template": {
+   "n_pvalues": 14800,
+   "passed": 14664,
+   "min_required": 14616,
+   "prop_ok": true,
+   "P_T": 0.33528135533439335,
+   "unif_ok": true,
+   "n_eligible_seqs": 100
+  },
+  "Overlapping Template": {
+   "n_pvalues": 100,
+   "passed": 100,
+   "min_required": 97,
+   "prop_ok": true,
+   "P_T": 0.334538151634006,
+   "unif_ok": true,
+   "n_eligible_seqs": 100
+  },
+  "Universal": {
+   "n_pvalues": 100,
+   "passed": 98,
+   "min_required": 97,
+   "prop_ok": true,
+   "P_T": 0.171866837466844,
+   "unif_ok": true,
+   "n_eligible_seqs": 100
+  },
+  "Linear Complexity": {
+   "n_pvalues": 100,
+   "passed": 100,
+   "min_required": 97,
+   "prop_ok": true,
+   "P_T": 0.4559371952206619,
+   "unif_ok": true,
+   "n_eligible_seqs": 100
+  },
+  "Serial": {
+   "n_pvalues": 200,
+   "passed": 199,
+   "min_required": 194,
+   "prop_ok": true,
+   "P_T": 0.21330930508341653,
+   "unif_ok": true,
+   "n_eligible_seqs": 100
+  },
+  "Approximate Entropy": {
+   "n_pvalues": 100,
+   "passed": 98,
+   "min_required": 97,
+   "prop_ok": true,
+   "P_T": 0.5141236202310755,
+   "unif_ok": true,
+   "n_eligible_seqs": 100
+  },
+  "Cumulative Sums": {
+   "n_pvalues": 200,
+   "passed": 199,
+   "min_required": 194,
+   "prop_ok": true,
+   "P_T": 0.5749034238644555,
+   "unif_ok": true,
+   "n_eligible_seqs": 100
+  },
+  "Random Excursions": {
+   "n_pvalues": 480,
+   "passed": 473,
+   "min_required": 469,
+   "prop_ok": true,
+   "P_T": 0.7727602750730933,
+   "unif_ok": true,
+   "n_eligible_seqs": 60
+  },
+  "Random Excursions Variant": {
+   "n_pvalues": 1080,
+   "passed": 1064,
+   "min_required": 1060,
+   "prop_ok": true,
+   "P_T": 0.0026603203334070787,
+   "unif_ok": true,
+   "n_eligible_seqs": 60
+  }
+ },
+ "control": {
+  "Frequency (Monobit)": {
+   "n_pvalues": 100,
+   "passed": 98,
+   "min_required": 97,
+   "prop_ok": true,
+   "P_T": 0.3041258164119104,
+   "unif_ok": true,
+   "n_eligible_seqs": 100
+  },
+  "Block Frequency": {
+   "n_pvalues": 100,
+   "passed": 99,
+   "min_required": 97,
+   "prop_ok": true,
+   "P_T": 0.18155663198089633,
+   "unif_ok": true,
+   "n_eligible_seqs": 100
+  },
+  "Runs": {
+   "n_pvalues": 100,
+   "passed": 99,
+   "min_required": 97,
+   "prop_ok": true,
+   "P_T": 0.6993125708664081,
+   "unif_ok": true,
+   "n_eligible_seqs": 100
+  },
+  "Longest Run of Ones": {
+   "n_pvalues": 100,
+   "passed": 99,
+   "min_required": 97,
+   "prop_ok": true,
+   "P_T": 0.3041258164119104,
+   "unif_ok": true,
+   "n_eligible_seqs": 100
+  },
+  "Binary Matrix Rank": {
+   "n_pvalues": 100,
+   "passed": 98,
+   "min_required": 97,
+   "prop_ok": true,
+   "P_T": 0.7197465748240341,
+   "unif_ok": true,
+   "n_eligible_seqs": 100
+  },
+  "DFT (Spectral)": {
+   "n_pvalues": 100,
+   "passed": 96,
+   "min_required": 97,
+   "prop_ok": false,
+   "P_T": 0.5141236202310755,
+   "unif_ok": true,
+   "n_eligible_seqs": 100
+  },
+  "Non-overlapping Template": {
+   "n_pvalues": 14800,
+   "passed": 14665,
+   "min_required": 14616,
+   "prop_ok": true,
+   "P_T": 0.5914927549989935,
+   "unif_ok": true,
+   "n_eligible_seqs": 100
+  },
+  "Overlapping Template": {
+   "n_pvalues": 100,
+   "passed": 99,
+   "min_required": 97,
+   "prop_ok": true,
+   "P_T": 0.7791877161648363,
+   "unif_ok": true,
+   "n_eligible_seqs": 100
+  },
+  "Universal": {
+   "n_pvalues": 100,
+   "passed": 99,
+   "min_required": 97,
+   "prop_ok": true,
+   "P_T": 0.35048521232336116,
+   "unif_ok": true,
+   "n_eligible_seqs": 100
+  },
+  "Linear Complexity": {
+   "n_pvalues": 100,
+   "passed": 100,
+   "min_required": 97,
+   "prop_ok": true,
+   "P_T": 0.946307673764427,
+   "unif_ok": true,
+   "n_eligible_seqs": 100
+  },
+  "Serial": {
+   "n_pvalues": 200,
+   "passed": 196,
+   "min_required": 194,
+   "prop_ok": true,
+   "P_T": 0.2826257890386496,
+   "unif_ok": true,
+   "n_eligible_seqs": 100
+  },
+  "Approximate Entropy": {
+   "n_pvalues": 100,
+   "passed": 100,
+   "min_required": 97,
+   "prop_ok": true,
+   "P_T": 0.20226768540582551,
+   "unif_ok": true,
+   "n_eligible_seqs": 100
+  },
+  "Cumulative Sums": {
+   "n_pvalues": 200,
+   "passed": 198,
+   "min_required": 194,
+   "prop_ok": true,
+   "P_T": 0.39245576033480606,
+   "unif_ok": true,
+   "n_eligible_seqs": 100
+  },
+  "Random Excursions": {
+   "n_pvalues": 472,
+   "passed": 464,
+   "min_required": 461,
+   "prop_ok": true,
+   "P_T": 0.4126273698598952,
+   "unif_ok": true,
+   "n_eligible_seqs": 59
+  },
+  "Random Excursions Variant": {
+   "n_pvalues": 1062,
+   "passed": 1057,
+   "min_required": 1042,
+   "prop_ok": true,
+   "P_T": 0.9391817319898471,
+   "unif_ok": true,
+   "n_eligible_seqs": 59
+  }
+ },
+ "numpy": {
+  "Frequency (Monobit)": {
+   "n_pvalues": 100,
+   "passed": 98,
+   "min_required": 97,
+   "prop_ok": true,
+   "P_T": 0.6993125708664083,
+   "unif_ok": true,
+   "n_eligible_seqs": 100
+  },
+  "Block Frequency": {
+   "n_pvalues": 100,
+   "passed": 100,
+   "min_required": 97,
+   "prop_ok": true,
+   "P_T": 0.41902116661019284,
+   "unif_ok": true,
+   "n_eligible_seqs": 100
+  },
+  "Runs": {
+   "n_pvalues": 100,
+   "passed": 98,
+   "min_required": 97,
+   "prop_ok": true,
+   "P_T": 0.3041258164119104,
+   "unif_ok": true,
+   "n_eligible_seqs": 100
+  },
+  "Longest Run of Ones": {
+   "n_pvalues": 100,
+   "passed": 99,
+   "min_required": 97,
+   "prop_ok": true,
+   "P_T": 0.2896674903884788,
+   "unif_ok": true,
+   "n_eligible_seqs": 100
+  },
+  "Binary Matrix Rank": {
+   "n_pvalues": 100,
+   "passed": 99,
+   "min_required": 97,
+   "prop_ok": true,
+   "P_T": 0.9834529512295069,
+   "unif_ok": true,
+   "n_eligible_seqs": 100
+  },
+  "DFT (Spectral)": {
+   "n_pvalues": 100,
+   "passed": 98,
+   "min_required": 97,
+   "prop_ok": true,
+   "P_T": 0.8831713784241684,
+   "unif_ok": true,
+   "n_eligible_seqs": 100
+  },
+  "Non-overlapping Template": {
+   "n_pvalues": 14800,
+   "passed": 14653,
+   "min_required": 14616,
+   "prop_ok": true,
+   "P_T": 0.40417866762820265,
+   "unif_ok": true,
+   "n_eligible_seqs": 100
+  },
+  "Overlapping Template": {
+   "n_pvalues": 100,
+   "passed": 99,
+   "min_required": 97,
+   "prop_ok": true,
+   "P_T": 0.554420435872857,
+   "unif_ok": true,
+   "n_eligible_seqs": 100
+  },
+  "Universal": {
+   "n_pvalues": 100,
+   "passed": 99,
+   "min_required": 97,
+   "prop_ok": true,
+   "P_T": 0.4749856866480098,
+   "unif_ok": true,
+   "n_eligible_seqs": 100
+  },
+  "Linear Complexity": {
+   "n_pvalues": 100,
+   "passed": 99,
+   "min_required": 97,
+   "prop_ok": true,
+   "P_T": 0.6579333062136289,
+   "unif_ok": true,
+   "n_eligible_seqs": 100
+  },
+  "Serial": {
+   "n_pvalues": 200,
+   "passed": 198,
+   "min_required": 194,
+   "prop_ok": true,
+   "P_T": 0.017912404529843298,
+   "unif_ok": true,
+   "n_eligible_seqs": 100
+  },
+  "Approximate Entropy": {
+   "n_pvalues": 100,
+   "passed": 99,
+   "min_required": 97,
+   "prop_ok": true,
+   "P_T": 0.6163052249833654,
+   "unif_ok": true,
+   "n_eligible_seqs": 100
+  },
+  "Cumulative Sums": {
+   "n_pvalues": 200,
+   "passed": 197,
+   "min_required": 194,
+   "prop_ok": true,
+   "P_T": 0.41005513786456216,
+   "unif_ok": true,
+   "n_eligible_seqs": 100
+  },
+  "Random Excursions": {
+   "n_pvalues": 632,
+   "passed": 627,
+   "min_required": 619,
+   "prop_ok": true,
+   "P_T": 0.08356514778751646,
+   "unif_ok": true,
+   "n_eligible_seqs": 79
+  },
+  "Random Excursions Variant": {
+   "n_pvalues": 1422,
+   "passed": 1406,
+   "min_required": 1397,
+   "prop_ok": true,
+   "P_T": 0.9005459229765489,
+   "unif_ok": true,
+   "n_eligible_seqs": 79
+  }
+ }
+}

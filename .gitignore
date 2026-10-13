@@ -1,0 +1,4 @@
+__pycache__/
+*.pyc
+results/seqs_*.npy
+results/gen.log
